@@ -1,0 +1,11 @@
+[package]
+name = "cfg-match"
+version = "0.2.1" # keep in sync with html_root_url
+authors = ["arcnmx"]
+edition = "2018"
+
+description = "Compile-time conditionals"
+documentation = "https://docs.rs/cfg-match/"
+repository = "https://github.com/arcnmx/cfg-match-rs"
+keywords = ["cfg", "cfg-if"]
+license = "MIT"
